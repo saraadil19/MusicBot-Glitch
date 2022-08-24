@@ -11,6 +11,3 @@ This music bot project is an adapted version of the original project published o
 <b>2 |</b> <a href="https://codeshare.xyz/uptime">Uptime</a> Paste the url you copied on the specified service and add it to the system.<br><hr><br>
 <h2>Good Luck to You with the Music Bot.</h2>
 <br>
-Umut Bayraktar Youtube: <a href="https://www.youtube.com/UmutBayraktarYT">Subscribe</a><br>
-Code Share Discord: <a href="https://discord.gg/6XGqdgE">Join</a><br>
-VİA: <a href="https://github.com/ZerioDev">ZerioDev</a>
